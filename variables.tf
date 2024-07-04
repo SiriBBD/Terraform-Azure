@@ -1,0 +1,6 @@
+variable "subscriptionid" {
+  
+}
+variable "tenantid" {
+  
+}
